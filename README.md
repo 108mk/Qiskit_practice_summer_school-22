@@ -8,3 +8,8 @@ Single and multiple qubit gate operations.
 
 > Depth and width of quantum circuits
 # Lab-2:
+> Qiskit OpFlow (Operation Flow)
+>> Pauli and arbitary angle rotation
+
+> Discrete time evolution of a Hamiltonian
+>> Approximation Technique: PauliTrotterEvolution
